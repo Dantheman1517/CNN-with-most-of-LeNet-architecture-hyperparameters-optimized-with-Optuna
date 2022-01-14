@@ -1,4 +1,4 @@
-# CNN-with-most-of-LeNet-architecture-hyperparameters-optimized-with-Optuna
+# Mostly-LeNet-With-a-few-hyperparameter-opimizations-with-Optuna
 CNN closely resembling LeNet, but with variable units within layers along with variable learning rate.
 
 These variable hyperparameters will be optimized through the optuna frame work.
